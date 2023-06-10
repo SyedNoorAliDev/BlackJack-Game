@@ -1,0 +1,33 @@
+h1{
+    font-family: Algerian;
+    color: goldenrod;
+    font-style: oblique;
+    text-align: center;
+    font-size: 60px;
+}
+body{
+    background-image: url("desktop-wallpaper-cell-solitaire.jpg");
+    background-size: cover;
+    font-family: "monospace";
+    font-weight: bold;
+    text-align: center;
+}
+P{
+    font-size: 25px;
+    font-family: monospace;
+    text-align: left;
+}
+#message-el{
+    text-align: center;
+}
+button{
+    color: goldenrod;
+    font-family: monospace;
+    font-size: 27px;
+    font-weight: bold;
+    background-color: lawngreen;
+    text-align: center;
+    width: 200px;
+    height: 80px;
+    border-radius: 50px;
+}
